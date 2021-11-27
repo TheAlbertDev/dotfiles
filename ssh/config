@@ -1,0 +1,5 @@
+# TheAlbertDev Github
+Host thealbertdev.github.com
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/thealbertdev_github 

@@ -9,5 +9,6 @@
     ~/.zshrc: zshrc
     ~/.oh-my-zsh/custom: oh-my-zsh/custom/
     ~/.config/nvim: nvim/
+    ~/.ssh/config: ssh/config
 
 
