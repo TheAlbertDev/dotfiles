@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/albert/workspaces/www/MASB/plugins/gatsby-remark-responsive-tables/src'
+let g:netrw_dirhist_3='/home/albert/workspaces/www/MASB/plugins/gatsby-remark-responsive-tables'
+let g:netrw_dirhist_2='/home/albert/workspaces/www/MASB/plugins'
+let g:netrw_dirhist_1='/home/albert/workspaces/www/MASB'
+let g:netrw_dirhist_0='/mnt/c/workspaces/www/masb-website/src/pages'
+let g:netrw_dirhist_9='/mnt/c/workspaces/www/masb-website/src'
+let g:netrw_dirhist_8='/mnt/c/workspaces/www/masb-website/src/components/Layout'
+let g:netrw_dirhist_7='/mnt/c/workspaces/www/masb-website/src/components'
+let g:netrw_dirhist_6='/mnt/c/workspaces/www/masb-website/src'
+let g:netrw_dirhist_5='/mnt/c/workspaces/www/masb-website'

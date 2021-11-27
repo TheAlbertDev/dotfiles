@@ -1,8 +1,23 @@
+
+
+
+" Global configuration
+
 set number
+set relativenumber
 
 set tabstop=4
 set shiftwidth=4
 set expandtab
+
+
+" Mappings
+
+:tnoremap <ESC> <C-\><C-n>
+:nnoremap <C-T>h <C-W>s
+:nnoremap <C-T>v <C-W>v
+
+" Plugins
 
 call plug#begin(stdpath('data') . '/plugged')
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
