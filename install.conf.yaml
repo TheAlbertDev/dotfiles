@@ -1,6 +1,13 @@
+- defaults:
+    link:
+      create: true
+      relink: true
+
 - clean: ['~']
 
 - link:
     ~/.zshrc: zshrc
+    ~/.oh-my-zsh/custom: oh-my-zsh/custom/
+    ~/.config/nvim: nvim/
 
 
