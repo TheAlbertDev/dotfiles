@@ -7,4 +7,4 @@ if ! [[ -z "$1" ]]
       nameFile=$1
 fi
 
-pandoc "$nameFile.md" -o "$nameFile.pdf" --from markdown+emoji --template eisvogel --toc --listings --variable titlepage-background="$(dirname $0)/background.pdf" --pdf-engine=xelatex
+pandoc "$nameFile.md" -o "$nameFile.pdf" --from markdown --template eisvogel --toc --listings
