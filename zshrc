@@ -120,3 +120,7 @@ if grep -q WSL2 /proc/version; then
   fi
 
 fi
+
+# Alias & functions
+mkdircd() { mkdir -p -- "$1" && cd -P -- "$1"; }
+myPandocGenerateLatex() { ~/.pandoc/build.sh "$1"; }
