@@ -1,3 +1,6 @@
 {
-    "coc.preferences.formatOnSaveFiletypes": ["typescript", "typescriptreact"]
+    "coc.preferences.formatOnSaveFiletypes": ["typescript", "typescriptreact"],
+    "diagnostic.virtualText": true,
+    "diagnostic.virtualTextCurrentLineOnly": false,
+    "typescript.preferences.importModuleSpecifier": "relative"
 } 
